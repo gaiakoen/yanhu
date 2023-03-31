@@ -126,6 +126,10 @@ for pubsource in publist:
 
             md += "\ndate: " + str(pub_date) 
 
+            if "code" in b.keys():
+                if b["code"] != "":
+                    md+="\ncode: "+ b["code"]
+
             md += "\nvenue: '" + html_escape(venue) + "'"
             
             url = False
