@@ -20,8 +20,8 @@ author_profile: true
 ======
 {% include projects.html %} -->
 
-Publications
-======
+<!-- Publications
+====== -->
 
 {% assign pubs = site.publications | group_by: "year" | reverse %}
 {% for pub in pubs %}
