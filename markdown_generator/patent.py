@@ -33,8 +33,9 @@ for row, item in patents.iterrows():
                 author = ", {}".format(authors[i])
         author_string += author
     author_string += "。"
-    html+='<p class="archive__item-excerpt" itemprop="description">:{}{}"{}", {}, {}, {}</p>\n'.format(row, 
-                                                                html_escape(author_string), html_escape(str(item.name)), 
+    print(item["name"])
+    html+='<p class="archive__item-excerpt" itemprop="description">{}. {}"{}", {}, {}, {}</p>\n'.format(row, 
+                                                                html_escape(author_string), html_escape(str(item["name"])), 
                                                                 html_escape(item.type), html_escape(str(item.status)), 
                                                                 html_escape(str(item.id)))
     html+="</div>\n</li>\n"
