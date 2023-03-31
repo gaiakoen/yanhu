@@ -48,7 +48,7 @@ Work experience
   * Shanghai Jiao Tong University
   * Team leader: Prof. Zhifeng Shao
   
-Publications(Recent three years)
+<!-- Publications(Recent three years)
 ======
   {% assign pubs = site.publications | where_exp: "item", "item.year > 2020" | group_by: "year" | reverse %}
 {% for pub in pubs %}
@@ -59,11 +59,11 @@ Publications(Recent three years)
     <li>{{ post.citation }}</li>
   {% endfor %}
   </ul>
-{% endfor %}
+{% endfor %} -->
   
-Projects
+<!-- Projects
 ======
-{% include projects.html %}
+{% include projects.html %} -->
 
 Honors & Awards
 ======

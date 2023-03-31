@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "Publications"
+permalink: /publications/
 author_profile: true
 ---
 
@@ -16,9 +16,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-Projects
+<!-- Projects
 ======
-{% include projects.html %}
+{% include projects.html %} -->
 
 Publications
 ======
@@ -33,7 +33,3 @@ Publications
   {% endfor %}
   </ul>
 {% endfor %}
-
-Patents
-======
-{% include patents.html %}
