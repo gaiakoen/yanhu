@@ -17,7 +17,7 @@ My main research interests are computer-aided surgery based on machine learning 
 * surgery video processing aided for operation and evaluation, such as instrument segmentation and tracking, action localization
 * image processing aided for treatment analysis
 
-Openings: We are opening to MSc and PhD students, research assistant working on those topics who are good at coding and/or math.
+<font color=Red>Openings: We are opening to MSc and PhD students, research assistant working on those topics who are good at coding and/or math.</font>
 
 Education
 ======
