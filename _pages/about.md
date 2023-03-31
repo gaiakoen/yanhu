@@ -10,17 +10,28 @@ redirect_from:
 
 Education
 ======
-* PhD  in , The University of Tokyo, 2013/04-2016.03
+* PhD  in Graduate School of Information Science and Technology, The University of Tokyo, 2013/04-2016/03
 * M.S. in Department of Computer, Northeast Normal University, 2008/09-2011/07
 * B.S. in Department of Computer, Northeast Normal University, 2004/09-2008/07
 
 
 Work experience
 ======
-* Jun. 2020 -: Research Assistant
+* Feb. 2023 - now: Research Associate Professor
+  * Department of Computer Science and Techology
   * Southern University of Science and Technology
-  * Duties included: Assitant with the teching and study
-  * Supervisor: Professor Jiang Liu
+
+* Sep. 2019 - Jan. 2023: Research Assistant Professor
+  * Department of Computer Science and Techology
+  * Southern University of Science and Technology
+
+* July. 2018 - Sep. 2019: Associate Researcher
+  * Cixi Institute of Biomedical Engineering
+  * Ningbo Institute of Materials Techology & Engineering, CAS
+
+* Apr. 2016 - Jun. 2018: Pos-doctor
+  * School of Biomedical Engineering
+  * Shanghai Jiao Tong University
   
 Publications(recent three years)
 ======
@@ -41,7 +52,8 @@ Projects
 
 Academic Services
 ======
-* Reviewer of CVPR 2023
-* Reviewer of ECCV 2022
-* Contributer of [MegCC](https://github.com/MegEngine/MegCC)
-* Contributer of [MegEngine](https://github.com/MegEngine/MegEngine)
+* Reviewer of MICCAI, BMVC, BIBM, IJCAI, ICPR, ICRA, OMIA, AECAI and so on
+* Reviewer of Transactions on Computational Imaging, Artificial Intelligence in Medicine, Cybernetics and Systems, Expert Systems with Applications, Imaging Science Journal, Information Fusion, Scientific Report and so on
+* International Technical Committee, 2023 8th International Conference on Communication, Image and Signal Processing (CCISP 2023)
+* Program Committee Member, the 30th International Joint Conference on Artificial Intelligence (IJCAI 2021)
+
