@@ -19,7 +19,10 @@ for row, item in projects.iterrows():
     print(item)
     html+='<h3>{}</h3>\n'.format(html_escape(item['name']))
     html+='<div><p class="archive__item-excerpt" itemprop="description">Funding:{}</p></div>\n'.format(html_escape(item.funding))
-    html+='<div><p class="archive__item-excerpt" itemprop="description">Duration:{}</p></div>\n'.format(html_escape(item.duration))
+    if item.duration == "Completed":
+        html+='<div><p class="archive__item-excerpt" itemprop="description">Status:{}</p></div>\n'.format(html_escape(item.duration))
+    else:
+        html+='<div><p class="archive__item-excerpt" itemprop="description">Duration:{}</p></div>\n'.format(html_escape(item.duration))
     html+='<div><p class="archive__item-excerpt" itemprop="description">Role:{}</p></div>\n'.format(html_escape(item.role))
     html+="</div>\n</li>\n"
 html+="</ul>"
