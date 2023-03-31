@@ -33,3 +33,7 @@ Publications
   {% endfor %}
   </ul>
 {% endfor %}
+
+Patents
+======
+{% include patents.html %}

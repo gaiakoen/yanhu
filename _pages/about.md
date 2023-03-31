@@ -33,7 +33,7 @@ Work experience
   * School of Biomedical Engineering
   * Shanghai Jiao Tong University
   
-Publications(recent three years)
+Publications(Recent three years)
 ======
   {% assign pubs = site.publications | where_exp: "item", "item.year > 2020" | group_by: "year" | reverse %}
 {% for pub in pubs %}
