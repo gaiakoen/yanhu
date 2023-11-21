@@ -9,7 +9,7 @@ Task 1: 3D posterior eyeball
    We proposea a novel task to reconstruct 3D polar eyebal shape based on small-FOV OCT images.<br/><img src='/yanhu/images/PESnet.png'>
    The visualization results of PESNet: <br/><img src='/yanhu/images/Pesexperiments.png'>
    
-Task 2: 3D surgical scenario
-2. 
+Task 2: 3D surgical scenario (coming soon)
+
 
 
