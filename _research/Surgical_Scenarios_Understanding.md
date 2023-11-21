@@ -1,7 +1,7 @@
 ---
 title: "Surgical scenarios understanding "
 excerpt: "Understanding the surgical scenarios from phase, step to action <br/><img src='/yanhu/images/surgeryunderstanding.jpg'>"
-collection: research
+collection: Research
 ---
 Cataracts are the most common cause of vision loss and blindness in the worldwide; the World Health Organization (WHO) has estimated that the number of people with blindness globally is projected to increase from 43.3 million in 2020 to 61.0 million in 2050.
 A surgical procedure to replace the eye lens with an artificial one when the cataract makes the vision cloudy, usually in geriatrics. 
