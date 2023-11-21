@@ -1,7 +1,7 @@
 ---
 title: "3D Eye"
 excerpt: "Constructing 3D eyeball pre- and intra- operation <br/><img src='/yanhu/images/3deye.png'>"
-collection: research
+collection: Research
 ---
 
 Task 1: 3D posterior eyeball
