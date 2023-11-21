@@ -1,6 +1,6 @@
 ---
 title: "Surgical scenarios understanding "
-excerpt: "Understanding the surgical scenarios from phase, step to action <br/><img src='/images/500x300.png'>"
+excerpt: "Understanding the surgical scenarios from phase, step to action <br/><img src='/images/surgeryunderstanding.jpg'>"
 collection: research
 ---
 
