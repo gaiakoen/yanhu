@@ -1,7 +1,7 @@
 ---
 title: "Retinal Image Segmentation"
 excerpt: "Segment Retinal images based on multi-task <br/><img src='/yanhu/images/segnet.png'>"
-collection: Research
+collection: research
 ---
 Paper: related code at [link](https://github.com/Qsingle/imed_vision)
 1. D2SF: Rethinking Dual-Stream Super-Resolution Semantic Learning in Medical Image Segmentation Official (TPAMI2023)
