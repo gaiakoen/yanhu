@@ -1,6 +1,6 @@
 ---
 title: "Retinal Image Segmentation"
-excerpt: "Segment Retinal images based on multi-task"
+excerpt: "Segment Retinal images based on multi-task <br/><img src='/yanhu/images/segnet.png'>"
 collection: research
 ---
 Paper: more details at [link](https://github.com/Qsingle/imed_vision)
