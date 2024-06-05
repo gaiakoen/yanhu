@@ -13,9 +13,13 @@ Task 1: Quintuple Detection [instrument bounding box, tissue bounding box, instr
    For the problem of Quintuple Detection, we propose a Quintuple Detection Network (QDNet), including instrument and tissue detection stage, and quintuple prediction stage.
    <br/><img src='/yanhu/images/QDNet.png'>
    The experiment results based on Cataract Dataset are: <br/><img src='/yanhu/images/QDNetexperiment.jpg'>
+2. Instrument-tissue Interaction Detection Framework for Surgical Video Understanding (TMI2024)
+   Instrument-tissue interaction detection task, which helps understand surgical activities, is vital for constructing computer-assisted surgery systems but with many challenges. Firstly, most models represent
+instrument-tissue interaction in a coarse-grained way which only focuses on classification and lacks the ability to automatically detect instruments and tissues. Secondly, existing works do not fully consider relations between intra- and inter-frame of instruments and tissues. In the paper, we propose to represent instrument-tissue interaction as ⟨instrument class, instrument bounding box, tissue class, tissue bounding box, action class⟩ quintuple and present an Instrument-Tissue Interaction Detection Network (ITID-Net) to detect the quintuple for surgery videos understanding. Specifically, we propose a Snippet Consecutive Feature (SCF) Layer to enhance features by modeling relationships of proposals in the current frame using global context information in the video snippet. We also propose a Spatial Corresponding Attention (SCA) Layer to incorporate features of proposals between adjacent frames through spatial encoding. To reason relationships between instruments and tissues, a Temporal Graph (TG) Layer is proposed with intra-frame connections to exploit relationships between instruments and tissues in the same frame and inter-frame connections to model the temporal information for the same instance. For evaluation, we build a cataract surgery video (PhacoQ) dataset and a cholecystectomy surgery video (CholecQ) dataset. Experimental results demonstrate the promising performance of our model, which outperforms other state-of-the-art models on both datasets.
+
 
 Dataset:
-We define instrument-tissue interaction quintuple: [instrument bounding box, tissue bounding box, instrument class, tissue class, action class]. Please contact Yan Hu (huy3@sustech.edu.cn) about the dataset.
+We define instrument-tissue interaction quintuple: [instrument bounding box, tissue bounding box, instrument class, tissue class, action class]. The details are listed as <br/> <img src=> Please contact Yan Hu (huy3@sustech.edu.cn) about the dataset.
 1. We collect a Cataract Quintuple Dataset based on phacoemulsification.
    Data: 15 videos for training, 5 videos for test
    Annotation: class label (12 instruments, 12 tissues, 15 actions), bounding box (12 instruments, 12 tissues) <br/><img src='/yanhu/images/quintupledata.png'>
@@ -30,6 +34,9 @@ Task 2: Action Detection (coarse-fine-grained representation)
    The experiments results are: <br/><img src='/yanhu/images/ACTNetexperiment.png'>
 
 Dataset: (coming soon)
+
+Task 2: Multi-granularity surgical scene understanding 
+
    
 
 
