@@ -19,12 +19,10 @@ instrument-tissue interaction in a coarse-grained way which only focuses on clas
 
 
 Dataset:
-We define instrument-tissue interaction quintuple: [instrument bounding box, tissue bounding box, instrument class, tissue class, action class]. The details are listed as <br/> <img src=> Please contact Yan Hu (huy3@sustech.edu.cn) about the dataset.
+We define instrument-tissue interaction quintuple: [instrument bounding box, tissue bounding box, instrument class, tissue class, action class]. The details are listed as <br/> <img src='/yanhu/images/quintupledatasets.png'> Please contact Yan Hu (huy3@sustech.edu.cn) about the dataset.
 1. We collect a Cataract Quintuple Dataset based on phacoemulsification.
    Data: 15 videos for training, 5 videos for test
    Annotation: class label (12 instruments, 12 tissues, 15 actions), bounding box (12 instruments, 12 tissues) <br/><img src='/yanhu/images/quintupledata.png'>
-   
-
 2. We also label a Cholecystectomy CholecQ Dataset based on publicly available dataset.
 
 Task 2: Action Detection (coarse-fine-grained representation)
