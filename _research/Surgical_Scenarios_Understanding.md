@@ -39,7 +39,7 @@ Task 2: Action Detection (coarse-fine-grained representation)
 
 Dataset: (coming soon)
 
-Task 2: Multi-granularity surgical scene understanding 
+Task 2: Multi-granularity surgical scene understanding code at [link](https://github.com/Aurora-hao/HCT)
 
    
 
