@@ -37,7 +37,7 @@ Task 2: Action Detection (coarse-fine-grained representation)
    a) Where actions locate; b) What actions are; c) How confident our model is about predictions <br/><img src='/yanhu/images/ACTNet.png'>
    The experiments results are: <br/><img src='/yanhu/images/ACTNetexperiment.png'>
 
-Dataset: We make CholecQ dataset publicly available at [link]([10.6084/m9.figshare.28194026](https://figshare.com/s/e8f02d2d72759cf19caf))
+Dataset: We make CholecQ dataset publicly available at [link](https://figshare.com/articles/dataset/cholec181_dataset_for_instrument-tissue_interaction_detection_for_surgical_scene_understanding/28194026)
 
 Task 2: Multi-granularity surgical scene understanding code at [link](https://github.com/Aurora-hao/HCT)
 
