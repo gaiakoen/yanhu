@@ -8,6 +8,7 @@ Retinal image registration plays a pivotal role in disease diagnosis, image-guid
 We propose a new dataset for retinal image registration named Coph100 here. We will public the dataset after the paper is accept:
 figshare<https://doi.org/10.6084/m9.figshare.27061084>
 Baidu Netdisk:  COph100_V1  链接: https://pan.baidu.com/s/101xMvgKw-qDFCYiTnXZzvw 提取码: 5yv2 
+google drive: https://drive.google.com/drive/folders/1soVkFxUhbJBycUszR1nw6hky6_LTgZjH?usp=sharing
 
 Our dataset is constructed based on the ROP classification dataset proposed by Timkovic et al. (Timkovič, Juraj, et al. "Retinal Image Dataset of Infants and Retinopathy of Prematurity." Scientific Data 11.1 (2024): 814.)
 Following the readme, you can obtain the registration dataset.
