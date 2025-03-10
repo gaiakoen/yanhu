@@ -13,7 +13,7 @@ We will public the dataset after the paper is accept:
 figshare<https://doi.org/10.6084/m9.figshare.27061084>
 
 
-Our dataset is constructed based on the ROP classification dataset proposed by Timkovic et al. (Timkovič, Juraj, et al. "Retinal Image Dataset of Infants and Retinopathy of Prematurity." Scientific Data 11.1 (2024): 814.)
+Our dataset is constructed based on the ROP classification dataset proposed by Timkovic et al. (Timkovič, Juraj, et al. "Retinal Image Dataset of Infants and Retinopathy of Prematurity." Scientific Data 11.1 (2024): 814.) 
 Following the readme, you can obtain the registration dataset from figshare (need to download ROP classification dataset and ours) or you can download directly from baidu netdisk or google drive (with fixed and moving images and lables).
 
 Please cite the paper:
